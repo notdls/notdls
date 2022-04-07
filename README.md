@@ -1,5 +1,14 @@
-### Hi there 👋
+### 😷 About me
+Sup, I'm dls, currently working as an offensive security consultant at ~~redacted~~. I am a massive web nerd with a data collection addiction, love breaking things apart as well as ~~building~~ over-engineering things.
 
+- 🔭 I’m currently working on [known breaches](https://breaches.dls.sh/), a searchable collection of known databreaches indexed by databreach search engines and aggregators, including Dehashed.com, Leak-Lookup.com, HaveIBeenPwned.com and Vigilante.pw. 
+- 💬 Ask me about web application security, recon, OSINT, databreaches.
+
+## Links
+- 💻 Blog: [https://dls.sh/](https://dls.sh/)
+- 🐦 Twitter: [@putersarehard](https://twitter.com/putersarehard)
+
+![dls' GitHub stats](https://github-readme-stats.vercel.app/api?username=notdls&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark)
 <!--
 **notdls/notdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
